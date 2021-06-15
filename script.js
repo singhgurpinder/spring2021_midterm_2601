@@ -51,6 +51,7 @@ let lib = `I just got back from a pizza party with __i__. Can you believe we got
 /**
  * ! Section 4: Functions - 12 points
  * * Create a function that will take in 4 numbers, add them together, then console log the result.
+ * * Run your function with 4 numbers of your choosing.
  */
 
 
