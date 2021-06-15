@@ -13,6 +13,18 @@
  * *     iii. a variable representing how full a gas tank is
  */
 
+/** 1A-1
+*/
+var animal = "cat",
+catName = "kim",
+age = 2;
+
+var = "family",
+people = "6",
+    
+    
+
+
 /**
  * * 1b. Please correct the following code and console log a description of your correction.
  */
