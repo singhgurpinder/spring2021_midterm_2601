@@ -13,6 +13,18 @@
  * *     iii. a variable representing how full a gas tank is
  */
 
+/** 1A-1
+*/
+var animal = "cat",
+catName = "kim",
+age = 2;
+
+var = "family",
+people = "6",
+    
+ 
+
+
 /**
  * * 1b. Please correct the following code and console log a description of your correction.
  */
@@ -33,6 +45,15 @@
  *        v. a plural noun(plural of a noun like cats.  A noun is a person, place or thing)
  *       vi. a plural noun(plural of a noun like cats.  A noun is a person, place or thing)
  */
+ 
+ /** Answer Section 2
+ var person = "karam",
+ quality = "charming",
+ 
+ var place = "disneyland",
+ var food = "pizza",
+ 
+ 
 
 let lib = `I just got back from a pizza party with __i__. Can you believe we got to eat __ii__ pizza in __iii__?! Everyone got to choose their own toppings. I made '__iv__ and __v__' pizza, which is my favorite! They even stuffed the crust with __vi__.`
 
@@ -47,6 +68,29 @@ let lib = `I just got back from a pizza party with __i__. Can you believe we got
  * * Kyiv
  * * Accra
  */
+ 
+ /** Answer Section 3
+ 
+ const places = ["Berlin", "jakarta", "Wellington", "Kyiv", "Accra"];
+ const places = ["Berlin", "jakarta", "Wellington", "Kyiv", "Accra"];
+ places.unshift("California", "Oshawa"); 
+ const places = ["Berlin", "jakarta", "Wellington", "Kyiv", "Accra"];
+ places.push("North Bay", "sudbury");
+ 
+ var places, text;
+places = ["Berlin", "jakarta", "Wellington", "Kyiv", "Accra", "North Bay", "sudbury", "California", "Oshawa"];
+
+text = "<ul>";
+places.forEach(myFunction);
+text += "</ul>";
+
+function myFunction(value) {
+  text += "<li>" + value + "</li>";
+}
+
+*/
+
+
 
 /**
  * ! Section 4: Functions - 12 points
@@ -54,4 +98,12 @@ let lib = `I just got back from a pizza party with __i__. Can you believe we got
  * * Run your function with 4 numbers of your choosing.
  */
 
+/** Answer Section 4
 
+function myFunction(2, 5, 6, 7) {
+  return 2 + 5 + 6 + 7;             // Function returns the addition of 2, 6, 5, and 7
+}
+
+console.log(2 + 5 + 6 + 7);
+
+*/
