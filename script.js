@@ -17,7 +17,7 @@
  * * 1b. Please correct the following code and console log a description of your correction.
  */
 
-//let hoursin theyear === "24"*"365"
+// * let hoursin theyear === "24"*"365"
 
 /**
  * ! Section 2: Strings and template literals - 15 points
